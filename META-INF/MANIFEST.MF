@@ -26,7 +26,6 @@ Export-Package: org.jdom2;uses:="org.jdom2.util,org.jdom2.filter",
    javax.xml.parsers,
    javax.xml.transform",
  org.jdom2.input.stax;uses:="org.jdom2",
- org.jdom2.internal,
  org.jdom2.located;uses:="org.jdom2",
  org.jdom2.output;
   uses:="org.xml.sax.ext,
